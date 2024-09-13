@@ -1,35 +1,35 @@
 # J.A.R.V.I.S
 
-Hi i am kabir and i am trying to make JARVIS like ai inspired from iron man.
-To run the code you need to install some modules in python using pip, the modules are:
-pip install annotated-types
-pip install anyio
-pip install certifi
-pip install charset-normalizer
-pip install click
-pip install colorama
-pip install comtypes
-pip install distro
-pip install h11
-pip install httpcore
-pip install httpx
-pip install idna
-pip install jiter
-pip install joblib
-pip install nltk
-pip install openai
-pip install pydantic
-pip install pydantic_core
-pip install pypiwin32
-pip install pyttsx3
-pip install pywin32
-pip install regex
-pip install requests
-pip install sniffio
-pip install SpeechRecognition
-pip install tqdm
-pip install typing_extensions
-pip install urllib3
+Hi i am kabir and i am trying to make JARVIS like ai inspired from iron man.<br>
+To run the code you need to install some modules in python using pip, the modules are:<br>
+pip install annotated-types<br>
+pip install anyio<br>
+pip install certifi<br>
+pip install charset-normalizer<br>
+pip install click<br>
+pip install colorama<br>
+pip install comtypes<br>
+pip install distro<br
+pip install h11<br>
+pip install httpcore<br>
+pip install httpx<br>
+pip install idna<br>
+pip install jiter<br>
+pip install joblib<br>
+pip install nltk<br>
+pip install openai<br>
+pip install pydantic<br>
+pip install pydantic_core<br>
+pip install pypiwin32<br>
+pip install pyttsx3<br>
+pip install pywin32<br>
+pip install regex<br>
+pip install requests<br>
+pip install sniffio<br>
+pip install SpeechRecognition<br>
+pip install tqdm<br>
+pip install typing_extensions<br>
+pip install urllib3<br>
 
 
 these are the modules you need for the current code
