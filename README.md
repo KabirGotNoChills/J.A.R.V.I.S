@@ -57,6 +57,7 @@ transformers       4.45.1<br>
 typing_extensions  4.12.2<br>
 tzdata             2024.2<br>
 urllib3            2.2.2<br>
+tkinter
 
 
 
