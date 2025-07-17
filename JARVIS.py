@@ -227,4 +227,4 @@ if __name__ == "__main__":
     gui = JarvisGUI(root)
     threading.Thread(target=lambda: run_jarvis(gui), daemon=True).start()
     root.mainloop()
-az
+
